@@ -1,0 +1,8 @@
+package com.telek.gt.command;
+
+public class Receiver {
+
+    public void action() {
+        System.out.println("接收者处理！");
+    }
+}
